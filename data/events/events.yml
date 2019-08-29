@@ -1,0 +1,96 @@
+DID_RECEIVE_LEAD:
+  phase: 'Admission'
+  localizations:
+    de: 'Lead erstellt'
+DID_ADMIT:
+  phase: 'Anamnesis'
+  localizations:
+    de: 'Anfrage aufgenommen'
+DID_SEND_ANAMNESIS_SURVEY:
+  phase: 'Anamnesis'
+  localizations:
+    de: 'Anamnese-Fragebogen versendet'
+DID_RECEIVE_PARTIAL_ANAMNESIS_SURVEY:
+  phase: 'Anamnesis'
+  localizations:
+    de: 'Anamnese-Fragebogen teilweise erhalten'
+DID_RECEIVE_FULL_ANAMNESIS_SURVEY:
+  phase: 'Matching'
+  localizations:
+    de: 'Anamnese-Fragebogen vollständig erhalten'
+DID_ACCEPT_ANAMNESIS:
+  phase: 'Matching'
+  localizations:
+    de: 'We received the full survey and have all the information we need TODO'
+DID_START_RESEARCH:
+  phase: 'Matching'
+  localizations:
+    de: '(Re-)Recherche begonnen'
+DID_PERFORM_DATABASE_RESEARCH:
+  phase: 'Matching'
+  localizations:
+    de: 'Datenbank-Recherche begonnen'
+DID_PERFORM_PRE_RESEARCH:
+  phase: 'Matching'
+  localizations:
+    de: 'Fall vorrecherchiert'
+DID_INVOLVE_EXPERTS:
+  phase: 'Matching'
+  localizations:
+    de: 'Spezialistenumfrage gestartet'
+DID_START_RERUN:
+  phase: 'Matching'
+  localizations:
+    de: 'Rerun gestartet'
+DID_SEND_PRE_RESULTS:
+  phase: 'Matching'
+  localizations:
+    de: 'Vorschläge der Vorrecherche versendet'
+DID_COMMUNICATE_RESULT:
+  phase: 'Follow-Up'
+  localizations:
+    de: 'Vorschläge der Recherche versendet'
+DID_SEND_FINAL_RESULTS:
+  phase: 'Follow-Up'
+  localizations:
+    de: 'Finale Vorschläge der Recherche versendet'
+DID_RECEIVE_RESULT_REJECTION:
+  phase: 'Matching'
+  localizations:
+    de: 'Patient hat Vorschläge abgelehnt'
+DID_SCHEDULE_TVB:
+  phase: 'Follow-Up'
+  localizations:
+    de: 'Terminvereinbarung (TVB) stattgefunden'
+DID_COMPLETE_MED_CALL:
+  phase: ''
+  localizations:
+    de: 'Ein medizinisches Telefonat hat stattgefunden (siehe nächstes Ereignis)'
+DID_COMPLETE_FIRST_MEDICAL_CALL:
+  phase: ''
+  localizations:
+    de: 'Erstes medizinisches Telefonat hat stattgefunden'
+DID_POSTPONE_FIRST_MEDICAL_CALL:
+  phase: ''
+  localizations:
+    de: 'Erstes medizinisches Telefonat wurde verschoben'
+DID_COMPLETE_SECOND_MEDICAL_CALL:
+  phase: ''
+  localizations:
+    de: 'Telefonat zur Besprechung der Vorschläge hat stattgefunden'
+DID_COMPLETE_RESULT_CALL:
+  phase: 'Matching'
+  localizations:
+    de: 'Telefonat zur Besprechung der Vorschläge hate stattgefunden'
+DID_REJECT_CASE:
+  phase: 'Archive'
+  localizations:
+    de: 'Anfrage abgelehnt'
+DID_CLOSE:
+  phase: 'Archive'
+  localizations:
+    de: 'Anfrage beendet'
+DID_ABORT:
+  phase: 'Archive'
+  localizations:
+    de: 'Anfrage abgebrochen'
