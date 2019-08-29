@@ -1,3 +1,6 @@
+require_relative 'events/event_helper'
+require_relative 'phases/phase_helper'
+
 module Betterdoc
   module Localizations
     class Railtie < Rails::Railtie
