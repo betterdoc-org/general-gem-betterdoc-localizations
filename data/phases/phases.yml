@@ -1,0 +1,20 @@
+ADMISSION:
+  localizations:
+    en: 'Admission'
+    de: 'Admission'
+ANAMNESIS:
+  localizations:
+    en: 'Anamnesis'
+    de: 'Anamnese'
+MATCHING:
+  localizations:
+    en: 'Matching'
+    de: 'Matching'
+FOLLOWUP:
+  localizations:
+    en: 'Follow-Up'
+    de: 'Follow-Up'
+ARCHIVE:
+  localizations:
+    en: 'Archive'
+    de: 'Archive'
