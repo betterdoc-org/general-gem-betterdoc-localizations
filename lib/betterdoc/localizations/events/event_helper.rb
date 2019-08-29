@@ -3,7 +3,7 @@ require_relative 'event'
 module Betterdoc
   module Localizations
     module Events
-      class EventHelper
+      module EventHelper
 
         def event_essential?(event)
           !Event.resolve(event).nil?
